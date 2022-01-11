@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smitebuilds/static/css/main.97c94a99.css",
+    "main.js": "/smitebuilds/static/js/main.fd7b643f.js",
+    "static/js/787.74128970.chunk.js": "/smitebuilds/static/js/787.74128970.chunk.js",
+    "index.html": "/smitebuilds/index.html",
+    "main.97c94a99.css.map": "/smitebuilds/static/css/main.97c94a99.css.map",
+    "main.fd7b643f.js.map": "/smitebuilds/static/js/main.fd7b643f.js.map",
+    "787.74128970.chunk.js.map": "/smitebuilds/static/js/787.74128970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c94a99.css",
+    "static/js/main.fd7b643f.js"
+  ]
+}
